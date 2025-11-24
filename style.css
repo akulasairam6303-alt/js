@@ -156,7 +156,6 @@ h4 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
-    border: solid 1px blue;
 }
 
 
@@ -170,6 +169,7 @@ h4 {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    border: solid 1px blue;
 }
 
 .sai > div:hover {
